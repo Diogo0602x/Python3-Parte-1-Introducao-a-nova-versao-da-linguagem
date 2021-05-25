@@ -1,5 +1,7 @@
 print("*********************************")
 print("Bem vindo ao jogo de Adivinhação!")
+import random 
+
 print("*********************************")
 
 numero_secreto = 42
